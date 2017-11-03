@@ -3,7 +3,7 @@
 ## Libs
 > ### 	[facebook-sdk](http://facebook-sdk.readthedocs.io/)
 
-> ### 	[python-firebase](http://ozgur.github.io)
+> ### 	[python-firebase](http://ozgur.github.io/python-firebase/)
 
 ## Install
 
