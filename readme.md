@@ -14,5 +14,5 @@ $ pip install python-firebase
 ```
 **facebook-sdk**
 ```
-pip install -e git+https://github.com/mobolic/facebook-sdk.git#egg=facebook-sdk
+$ pip install -e git+https://github.com/mobolic/facebook-sdk.git#egg=facebook-sdk
 ```
