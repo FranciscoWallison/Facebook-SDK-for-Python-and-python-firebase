@@ -1,0 +1,187 @@
+{
+  "Hospital" : {
+    "data" : [ {
+      "id" : "113001758777735",
+      "location" : {
+        "city" : "Fortaleza",
+        "country" : "Brazil",
+        "latitude" : -3.7794174813012,
+        "longitude" : -38.571845659805,
+        "state" : "CE",
+        "zip" : "60720000"
+      },
+      "name" : "Hospital Frotinha Parangaba Maria José Barroso"
+    }, {
+      "id" : "762048590486273",
+      "location" : {
+        "city" : "Fortaleza",
+        "country" : "Brazil",
+        "latitude" : -3.7320677364768,
+        "longitude" : -38.493488929223,
+        "state" : "CE",
+        "street" : "Rua República do Líbano, 747 - Meireles"
+      },
+      "name" : "Hospital Monte Klinikum"
+    }, {
+      "id" : "834455253336683",
+      "location" : {
+        "city" : "Fortaleza",
+        "country" : "Brazil",
+        "latitude" : -3.7304401,
+        "longitude" : -38.5286331,
+        "state" : "CE",
+        "street" : "Rua Major Facundo, 847",
+        "zip" : "60025-100"
+      },
+      "name" : "Odonto Center"
+    }, {
+      "id" : "305060489630458",
+      "location" : {
+        "city" : "Fortaleza",
+        "country" : "Brazil",
+        "latitude" : -3.73433,
+        "longitude" : -38.53072,
+        "state" : "CE",
+        "street" : "Av. Barão do Rio Branco 1835",
+        "zip" : "60025-061"
+      },
+      "name" : "Império Hospitalar"
+    }, {
+      "id" : "362112277493946",
+      "location" : {
+        "city" : "Icó",
+        "country" : "Brazil",
+        "latitude" : -6.40352,
+        "longitude" : -38.8599699,
+        "state" : "CE",
+        "street" : "Av. Josefa Nogueira Monteiro S/N",
+        "zip" : "63.430 - 000"
+      },
+      "name" : "Hospital Regional de Icó."
+    }, {
+      "id" : "225541254132055",
+      "location" : {
+        "city" : "Teresina",
+        "country" : "Brazil",
+        "latitude" : -5.0964995165101,
+        "longitude" : -42.810755613435,
+        "state" : "PI",
+        "street" : "Rua São João, 1262",
+        "zip" : "64001-360"
+      },
+      "name" : "Unimed Teresina"
+    }, {
+      "id" : "6435441794",
+      "location" : {
+        "city" : "Memphis",
+        "country" : "United States",
+        "latitude" : 35.153243172262,
+        "longitude" : -90.043481558707,
+        "state" : "TN",
+        "street" : "501 Saint Jude Pl",
+        "zip" : "38105"
+      },
+      "name" : "St. Jude Children's Research Hospital"
+    }, {
+      "id" : "871305996291012",
+      "location" : {
+        "city" : "Ceará",
+        "country" : "Brazil",
+        "latitude" : -3.7359454333333,
+        "longitude" : -38.656924133333,
+        "state" : "CE",
+        "zip" : "60015-000"
+      },
+      "name" : "HGCC Hospital Geral César Cals - Fortaleza, Ce"
+    }, {
+      "id" : "1761316640794578",
+      "location" : {
+        "city" : "Sobral",
+        "country" : "Brazil",
+        "latitude" : -3.6977148166889,
+        "longitude" : -40.347982048988,
+        "state" : "CE",
+        "street" : "North Shopping Sobral",
+        "zip" : "62011-020"
+      },
+      "name" : "Hospital dos Iphones"
+    }, {
+      "id" : "332052750168526",
+      "location" : {
+        "city" : "Fortaleza",
+        "country" : "Brazil",
+        "latitude" : -3.7392181718505,
+        "longitude" : -38.499867362003,
+        "state" : "CE",
+        "zip" : "60170-001"
+      },
+      "name" : "Hospital Geral do Exército de Fortaleza -HGeF. Hospital Militar"
+    }, {
+      "id" : "127909093951342",
+      "location" : {
+        "city" : "Fortaleza",
+        "country" : "Brazil",
+        "latitude" : -3.7344389226332,
+        "longitude" : -38.531131765688,
+        "state" : "CE",
+        "zip" : "60040-000"
+      },
+      "name" : "IJF-Instituto Dr José Frota-Frotão"
+    }, {
+      "id" : "377836699242343",
+      "location" : {
+        "city" : "Fortaleza",
+        "country" : "Brazil",
+        "latitude" : -3.7128965,
+        "longitude" : -38.5691958,
+        "state" : "CE",
+        "street" : "Francisco  Sa"
+      },
+      "name" : "Hospital Luis De França Francisco Sa"
+    }, {
+      "id" : "230584297461022",
+      "location" : {
+        "city" : "Fortaleza",
+        "country" : "Brazil",
+        "latitude" : -3.7737,
+        "longitude" : -38.5748,
+        "state" : "CE"
+      },
+      "name" : "Centro Cirúrgico Hospital Infantil Albert Sabin"
+    }, {
+      "id" : "349899081692118",
+      "location" : {
+        "city" : "Fortaleza",
+        "country" : "Brazil",
+        "latitude" : -3.7737,
+        "longitude" : -38.5748,
+        "state" : "CE",
+        "zip" : "60710-300"
+      },
+      "name" : "Beleza de Mulher"
+    }, {
+      "id" : "396588720722019",
+      "location" : {
+        "city" : "Fortaleza",
+        "country" : "Brazil",
+        "latitude" : -3.7346586,
+        "longitude" : -38.5310112,
+        "state" : "CE",
+        "street" : "centro De Fortaleza"
+      },
+      "name" : "Hospital Frotao Do Centro"
+    }, {
+      "id" : "683121051744954",
+      "location" : {
+        "city" : "Fortaleza",
+        "country" : "Brazil",
+        "latitude" : -3.73278,
+        "longitude" : -38.52396,
+        "state" : "CE",
+        "street" : "Rua Pero Coelho Milagres",
+        "zip" : "60140-100"
+      },
+      "name" : "Francisco Assis de Oliveira Produtos Hospitalares"
+    } ]
+  }
+}
