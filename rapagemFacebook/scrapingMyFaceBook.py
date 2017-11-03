@@ -35,13 +35,13 @@ while(True):
 filteReturn = pages['data']
 
 # Armazenando as informações
-# Em arquivo
+
 directFile = 'pesquisas/'+pergunta+'.json'
 directDB = '/'+pergunta
-
+# Em arquivo
 with open( directFile, 'w') as fp:
     json.dump(filteReturn, fp)
-# Firebase
+# Firebase DataBase
 firebase.post(directDB, filteReturn)
 
 print ( 'ok...')
